@@ -48,7 +48,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.use(mongoSanitize({
 	replaceWith: '_'
 }))
-const secret = process.env.SECRET || 'bidet';
+const secret = process.env.SECRET || 'SomethingSecret';
 
 const store = new MongoDBStore({
 	url: dbUrl,

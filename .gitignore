@@ -1,7 +1,2 @@
-#modules
 node_modules
-
-#env files
 .env
-DS_Store
-env
