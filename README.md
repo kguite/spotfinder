@@ -1,6 +1,9 @@
-# wayfinder
+# WayFinder
 
-"Suddenly I came out of my thoughts to notice everything around me again-the catkins on the willows, the lapping of the water, the leafy patterns of the shadows across the path. And then myself, walking with the alignment that only comes after miles, the loose diagonal rhythm of arms swinging in synchronization with legs in a body that felt long and stretched out, almost as sinuous as a snake…when you give yourself to places, they give you yourself back; the more one comes to know them, the more one seeds them with the invisible crop of memories and associations that will be waiting for when you come back, while new places offer up new thoughts, new possibilities. Exploring the world is one the best ways of exploring the mind, and walking travels both terrains."
+<img width="1105" alt="wayfinderHome" src="https://user-images.githubusercontent.com/33885541/133004807-a382e559-1c0a-4c86-a391-205098d3d5b7.png">
+
+
+"Suddenly I came out of my thoughts to notice everything around me again-the catkins on the willows, the lapping of the water, the leafy patterns of the shadows across the path. And then myself, walking with the alignment that only comes after miles, the loose diagonal rhythm of arms swinging in synchronization with legs in a body that felt long and stretched out, almost as sinuous as a snake…when you give yourself to places, they give you yourself back; the more one comes to know them, the more one seeds them with the invisible crop of memories and associations that will be waiting for when you come back, while new places offer up new thoughts, new possibilities. Exploring the world is one the best ways of exploring the mind, and walking travels both terrains." <br>
 — Rebecca Solnit (Wanderlust: A History of Walking)
 
 
@@ -12,20 +15,13 @@ Users can sign up, customize & personalize their favorite walking, biking, strol
 
 link to working app: `https://protected-forest-09739.herokuapp.com/`
 
+<img width="1107" alt="wayfinderWay" src="https://user-images.githubusercontent.com/33885541/133004842-4aaf1e67-f379-4099-982f-d6c3c8c955cc.png">
 
 # Objectives
 
 - It's an advance level app created to understand how MVC concepts with backend technology and CRUD logic to comment, post, delete images and paths posted by users.
 
----
-
-# Who is this for? 
-
-- It's for intermediate programmers with little more experience, to help understand the various aspects of building a node app with some complex features
-
----
-
-# Tech used 
+# Tech Used 
 
 - HTML, CSS, Bootstrap, JavaScript, Express, Node.js, Mongodb/Mongoose, EJS, Cloudinary, Heroku, Mapbox, joi
 
